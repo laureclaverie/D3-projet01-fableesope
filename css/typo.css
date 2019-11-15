@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Vast+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Aclonica&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica&display=swap');
+@import url('https://fonts.googleapis.com/css?family=New+Rocker&display=swap');
+@import url('https://fonts.googleapis.com/css?family=UnifrakturMaguntia&display=swap');
+
+header {
+  font-family: 'Righteous', serif;
+  text-align: center;
+  align-items: center;
+}
+
+header h1,h2,h3 {
+  font-size: 4.25em;
+  text-align: center;
+}
+
+header p {
+  font-size: 2.25em;
+  text-align: center;
+  align-items: center;
+}
+
+.fable-moral {
+  font-size: 3.052em;
+  margin: 2.75rem 0 1rem;
+  text-align: center;
+}
+
+#fable01 {
+  font-family: 'Cuprum', sans-serif;
+}
+
+#fable01 h2{
+  font-family: 'Righteous', cursive;
+  font-size: 4em;
+}
+
+
+#fable02 .fable-moral {
+  font-family: 'Aclonica'
+}
+
+#fable02 p {
+  font-family: 'IBM Plex Mono', sans-serif;
+}
+
+#fable02 h2 {
+  font-family: 'Monoton', cursive;
+  font-size: 4em;
+}
+
+#fable03 .fable-moral {
+  font-family: 'UnifrakturMaguntia'
+}
+
+#fable03 {
+    font-family: 'Saira Stencil One', sans-serif;
+  }
+
+  #fable03 h2 {
+    font-family: 'New Rocker', cursive;
+    font-size: 4em;
+  }
+
+  #fable02 {

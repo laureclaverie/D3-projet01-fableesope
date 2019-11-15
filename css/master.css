@@ -1,0 +1,90 @@
+body{
+  background: #000000;
+}
+
+h1{
+  color : #FFFFFF;
+  align-items: center;
+}
+
+h2{
+  color : #FFFFFF;
+  align-items: center;
+}
+
+.moral{
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.content{
+max-width: 840px;
+}
+
+#fable01 h2 {
+  color : #AB2242;
+}
+
+#fable01 {
+  min-height: 30vh;
+  background: #F5CB62 url('images/2.jpg') top center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+  padding: 42px;
+}
+
+
+
+#fable01 .text-content {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 42px;
+  margin-top : 0;
+  margin-right : auto;
+  margin-bottom : 0;
+  margin-left : auto;
+  max-width: 620px;
+}
+
+#fable02 {
+  min-height: 30vh;
+  background: #FCCA8D;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+  padding: 42px;
+}
+
+#fable02 .text-content {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 42px;
+  margin-top : 0;
+  margin-right : auto;
+  margin-bottom : 0;
+  margin-left : auto;
+  max-width: 620px;
+}
+
+#fable02 .fable-moral {
+  color: #FFFFFF;
+}
+
+#fable03 {
+  min-height: 30vh;
+  background: #AB2242 url('images/mort.png') top center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+  padding: 42px;
+}
+
+#fable03 .text-content {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 42px;
+  margin-top : 0;
+  margin-right : auto;
+  margin-bottom : 0;
+  margin-left : auto;
+
+  max-width: 620px;
+}
